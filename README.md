@@ -10,6 +10,18 @@ RAM:
 
 CPU:
 
+#Nazmul's device 
+
+device vendor: sun microsystem 
+
+Device model: sun fire x2200
+
+os: debian 8.2
+
+ram:16gb
+
+cpu: Amd optemom dual core 2.6 ghz  
+
 # Bob's device
 
 Device vendor: Microsoft
